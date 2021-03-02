@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="918bd9dc-19cf-456e-b131-6ff41d276823" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pelican.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lotto.py" beforeDir="false" afterPath="$PROJECT_DIR$/lotto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/read_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/read_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/write_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/write_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.read_file">
+  <component name="RunManager" selected="Python.lotto">
     <configuration name="Exercise12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythonweek4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,10 +149,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.read_file" />
-        <item itemvalue="Python.write_file" />
         <item itemvalue="Python.lotto" />
         <item itemvalue="Python.Exercise12" />
+        <item itemvalue="Python.read_file" />
+        <item itemvalue="Python.write_file" />
         <item itemvalue="Python.exercise1" />
       </list>
     </recent_temporary>
@@ -181,5 +182,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lotto.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
